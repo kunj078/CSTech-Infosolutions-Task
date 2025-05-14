@@ -1,0 +1,26 @@
+# Node.js (Backend)
+node_modules/
+.env
+uploads/
+dist/
+package-lock.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# React (Frontend - Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
